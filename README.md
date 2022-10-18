@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on website projects using react with either ts or js.
 - 📫 Reach me at: tibcso0322@gmail.com
 - 🧨Languages I know: python, js(react, vanilla), html, css, c#, and bash.
-- Familiar with things like: MITM interception, android rooting/instrumentation, Frida.js, React Mantine
+- Familiar with things like: MITM interception, android rooting/instrumentation, Frida.js, Tailwindcss
